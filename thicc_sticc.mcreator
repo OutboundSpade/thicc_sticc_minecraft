@@ -197,6 +197,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "thiccsticcblast"
+    },
+    {
+      "name": "ThiccsticctoolsetCommandExecuted",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticctoolset_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thiccsticctoolset",
+      "type": "command",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticctoolset"
     }
   ],
   "variable_elements": [],
