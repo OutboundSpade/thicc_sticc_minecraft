@@ -30,7 +30,7 @@ public class Thiccsticc_toolsPickaxeItem extends ThiccSticcModElements.ModElemen
 			}
 
 			public float getEfficiency() {
-				return 9f;
+				return 20f;
 			}
 
 			public float getAttackDamage() {
