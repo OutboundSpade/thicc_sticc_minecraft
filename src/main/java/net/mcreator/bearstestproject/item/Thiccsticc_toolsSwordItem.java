@@ -26,7 +26,7 @@ public class Thiccsticc_toolsSwordItem extends ThiccSticcModElements.ModElement 
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 20;
+				return 10;
 			}
 
 			public float getEfficiency() {
@@ -34,7 +34,7 @@ public class Thiccsticc_toolsSwordItem extends ThiccSticcModElements.ModElement 
 			}
 
 			public float getAttackDamage() {
-				return 118f;
+				return 119f;
 			}
 
 			public int getHarvestLevel() {

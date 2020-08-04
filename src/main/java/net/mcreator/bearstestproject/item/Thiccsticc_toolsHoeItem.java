@@ -30,7 +30,7 @@ public class Thiccsticc_toolsHoeItem extends ThiccSticcModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 20f;
+				return 100f;
 			}
 
 			public float getAttackDamage() {

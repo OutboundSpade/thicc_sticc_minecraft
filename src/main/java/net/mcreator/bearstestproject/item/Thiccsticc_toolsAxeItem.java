@@ -26,11 +26,11 @@ public class Thiccsticc_toolsAxeItem extends ThiccSticcModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new AxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 300;
+				return 100;
 			}
 
 			public float getEfficiency() {
-				return 25f;
+				return 75f;
 			}
 
 			public float getAttackDamage() {
