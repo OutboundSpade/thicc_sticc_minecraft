@@ -1,0 +1,33 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "thiccsticc_tools_axe",
+    "customModelName": "Normal",
+    "name": "Thicc Sticc Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 10.0,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Thiccsticc"
+      },
+      {
+        "value": "CUSTOM:Thiccsticcingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

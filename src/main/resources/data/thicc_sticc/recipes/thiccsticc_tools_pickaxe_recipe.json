@@ -1,0 +1,30 @@
+{
+  "group": "thicc_sticc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "1": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "2": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "4": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "7": {
+      "item": "thicc_sticc:thiccsticc"
+    }
+  },
+  "result": {
+    "item": "thicc_sticc:thiccsticc_tools_pickaxe",
+    "count": 1
+  }
+}

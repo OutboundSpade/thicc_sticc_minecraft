@@ -1,0 +1,33 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "thiccsticc_tools_sword",
+    "customModelName": "Normal",
+    "name": "Thicc Sticc Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 120.0,
+    "usageCount": 20,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Thiccsticcingot"
+      },
+      {
+        "value": "CUSTOM:Thiccsticc"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

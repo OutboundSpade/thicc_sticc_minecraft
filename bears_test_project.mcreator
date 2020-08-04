@@ -1,0 +1,112 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Stickore",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickore"
+    },
+    {
+      "name": "Thiccsticc",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc"
+    },
+    {
+      "name": "KillmeCommandExecuted",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killme_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Killme",
+      "type": "command",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killme"
+    },
+    {
+      "name": "Stickstair",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickstair"
+    },
+    {
+      "name": "Stickorestairs",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickorestairs"
+    },
+    {
+      "name": "Stickoredoor",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickoredoor"
+    },
+    {
+      "name": "Stickdoor",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickdoor"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.bears_test_project.stickoredoor": "Stick Door",
+      "block.bears_test_project.stickore": "Stick Ore",
+      "block.bears_test_project.stickstair": "Stick Stair",
+      "item.bears_test_project.thiccsticc": "Thicc Sticc"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "bears_test_project",
+    "modName": "Bear\u0027s Test Project",
+    "version": "1.0.0",
+    "author": "Raymond, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.bearstestproject",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000431617
+}

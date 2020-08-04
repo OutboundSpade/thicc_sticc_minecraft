@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "thicc_sticc:blocks/stick_ore",
+    "top": "thicc_sticc:blocks/stick_ore",
+    "side": "thicc_sticc:blocks/stick_ore"
+  }
+}

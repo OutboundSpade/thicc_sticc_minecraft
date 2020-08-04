@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Thiccsticcingot"
+      },
+      {
+        "value": "CUSTOM:Thiccsticcingot"
+      },
+      {
+        "value": "CUSTOM:Thiccsticcingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Thiccsticc"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Thiccsticc"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Thiccsticc_toolsPickaxe"
+    },
+    "name": "thiccsticc_tools_pickaxe_recipe",
+    "namespace": "mod"
+  }
+}

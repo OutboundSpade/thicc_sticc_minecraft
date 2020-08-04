@@ -1,0 +1,24 @@
+{
+  "group": "thicc_sticc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "1": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "2": {
+      "item": "thicc_sticc:thiccsticc"
+    }
+  },
+  "result": {
+    "item": "thicc_sticc:thiccsticc_tools_shovel",
+    "count": 1
+  }
+}

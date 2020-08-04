@@ -1,0 +1,235 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Stickore",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickore"
+    },
+    {
+      "name": "Thiccsticc",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc"
+    },
+    {
+      "name": "KillmeCommandExecuted",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killme_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Killme",
+      "type": "command",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killme"
+    },
+    {
+      "name": "Stickstair",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickstair"
+    },
+    {
+      "name": "Stickorestairs",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickorestairs"
+    },
+    {
+      "name": "Stickoredoor",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickoredoor"
+    },
+    {
+      "name": "Stickdoor",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stickdoor"
+    },
+    {
+      "name": "Thiccsticc_toolsPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_pickaxe"
+    },
+    {
+      "name": "Thiccsticc_toolsAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_axe"
+    },
+    {
+      "name": "Thiccsticc_toolsSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_sword"
+    },
+    {
+      "name": "Thiccsticc_toolsShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_shovel"
+    },
+    {
+      "name": "Thiccsticc_toolsHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_hoe"
+    },
+    {
+      "name": "Thiccsticc_toolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_pickaxe_recipe"
+    },
+    {
+      "name": "Thiccsticc_toolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_axe_recipe"
+    },
+    {
+      "name": "Thiccsticc_toolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_sword_recipe"
+    },
+    {
+      "name": "Thiccsticc_toolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_shovel_recipe"
+    },
+    {
+      "name": "Thiccsticc_toolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticc_tools_hoe_recipe"
+    },
+    {
+      "name": "Thiccsticcingot",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticcingot"
+    },
+    {
+      "name": "Thiccsticcsmelt",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticcsmelt"
+    },
+    {
+      "name": "Thiccsticcblast",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thiccsticcblast"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.thicc_sticc.thiccsticcingot": "Thicc Sticc Ingot",
+      "item.thicc_sticc.thiccsticc_tools_sword": "Thicc Sticc Sword",
+      "block.thicc_sticc.stickoredoor": "Stick Door",
+      "block.thicc_sticc.stickstair": "Thicc Sticc Stair",
+      "block.thicc_sticc.stickore": "Thicc Sticc Ore",
+      "item.thicc_sticc.thiccsticc_tools_shovel": "Thicc Sticc Shovel",
+      "item.thicc_sticc.thiccsticc": "Thicc Sticc",
+      "item.thicc_sticc.thiccsticc_tools_pickaxe": "Thicc Sticc Pickaxe",
+      "item.thicc_sticc.thiccsticc_tools_hoe": "Thicc Sticc Hoe",
+      "item.thicc_sticc.thiccsticc_tools_axe": "Thicc Sticc Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "thicc_sticc",
+    "modName": "Thicc Sticc",
+    "version": "1.1.0",
+    "description": "thicc sticc",
+    "author": "Raymond Steen",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.bearstestproject",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000431617
+}

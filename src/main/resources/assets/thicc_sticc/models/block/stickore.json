@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thicc_sticc:blocks/stick_ore",
+    "particle": "thicc_sticc:blocks/stick_ore"
+  }
+}

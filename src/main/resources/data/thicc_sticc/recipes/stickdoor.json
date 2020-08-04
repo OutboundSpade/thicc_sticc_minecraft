@@ -1,0 +1,33 @@
+{
+  "group": "thicc_sticc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "1": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "2": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "3": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "4": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "5": {
+      "item": "thicc_sticc:thiccsticc"
+    }
+  },
+  "result": {
+    "item": "thicc_sticc:stickoredoor",
+    "count": 2
+  }
+}

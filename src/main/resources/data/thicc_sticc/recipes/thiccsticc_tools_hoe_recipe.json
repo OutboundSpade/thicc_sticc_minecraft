@@ -1,0 +1,27 @@
+{
+  "group": "thicc_sticc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "1": {
+      "item": "thicc_sticc:thiccsticcingot"
+    },
+    "3": {
+      "item": "thicc_sticc:thiccsticc"
+    },
+    "5": {
+      "item": "thicc_sticc:thiccsticc"
+    }
+  },
+  "result": {
+    "item": "thicc_sticc:thiccsticc_tools_hoe",
+    "count": 1
+  }
+}

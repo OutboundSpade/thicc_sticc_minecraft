@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thicc_sticc:items/thiccsticc_tools_sword"
+  }
+}
